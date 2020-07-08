@@ -1,0 +1,156 @@
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.exe
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.deps.json
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.runtimeconfig.json
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.runtimeconfig.dev.json
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.xml
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.Common.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.Domains.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.Events.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.Infrastructure.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.Repositories.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.Events.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.Common.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.Domains.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.Infrastructure.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.Repositories.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\obj\Debug\netcoreapp3.1\CustomerApi.csprojAssemblyReference.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\obj\Debug\netcoreapp3.1\CustomerApi.AssemblyInfoInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\obj\Debug\netcoreapp3.1\CustomerApi.AssemblyInfo.cs
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\obj\Debug\netcoreapp3.1\CustomerApi.RazorTargetAssemblyInfo.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\obj\Debug\netcoreapp3.1\CustomerApi.csproj.CopyComplete
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\obj\Debug\netcoreapp3.1\staticwebassets\CustomerApi.StaticWebAssets.Manifest.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\obj\Debug\netcoreapp3.1\staticwebassets\CustomerApi.StaticWebAssets.xml
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\obj\Debug\netcoreapp3.1\CustomerApi.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\obj\Debug\netcoreapp3.1\CustomerApi.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\obj\Debug\netcoreapp3.1\CustomerApi.genruntimeconfig.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\obj\Debug\netcoreapp3.1\CustomerApi.csproj.CoreCompileInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\obj\Debug\netcoreapp3.1\CustomerApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi\obj\Debug\netcoreapp3.1\CustomerApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\obj\Debug\netcoreapp3.1\CustomerApi.csprojAssemblyReference.cache
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\obj\Debug\netcoreapp3.1\CustomerApi.AssemblyInfoInputs.cache
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\obj\Debug\netcoreapp3.1\CustomerApi.AssemblyInfo.cs
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\obj\Debug\netcoreapp3.1\CustomerApi.csproj.CoreCompileInputs.cache
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\obj\Debug\netcoreapp3.1\CustomerApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\obj\Debug\netcoreapp3.1\CustomerApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\obj\Debug\netcoreapp3.1\CustomerApi.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\obj\Debug\netcoreapp3.1\CustomerApi.pdb
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.exe
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.deps.json
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.runtimeconfig.json
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.runtimeconfig.dev.json
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.pdb
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.xml
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.Common.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.Domains.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.Events.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.Infrastructure.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.Repositories.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.Events.pdb
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.Common.pdb
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.Domains.pdb
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.Infrastructure.pdb
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\bin\Debug\netcoreapp3.1\CustomerApi.Repositories.pdb
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\obj\Debug\netcoreapp3.1\CustomerApi.RazorTargetAssemblyInfo.cache
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\obj\Debug\netcoreapp3.1\CustomerApi.csproj.CopyComplete
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\obj\Debug\netcoreapp3.1\staticwebassets\CustomerApi.StaticWebAssets.Manifest.cache
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\obj\Debug\netcoreapp3.1\staticwebassets\CustomerApi.StaticWebAssets.xml
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\obj\Debug\netcoreapp3.1\CustomerApi.genruntimeconfig.cache

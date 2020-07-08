@@ -1,0 +1,18 @@
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi.Domains\bin\Debug\netstandard2.0\CustomerApi.Domains.deps.json
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi.Domains\bin\Debug\netstandard2.0\CustomerApi.Domains.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi.Domains\bin\Debug\netstandard2.0\CustomerApi.Domains.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi.Domains\obj\Debug\netstandard2.0\CustomerApi.Domains.csprojAssemblyReference.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi.Domains\obj\Debug\netstandard2.0\CustomerApi.Domains.AssemblyInfoInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi.Domains\obj\Debug\netstandard2.0\CustomerApi.Domains.AssemblyInfo.cs
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi.Domains\obj\Debug\netstandard2.0\CustomerApi.Domains.csproj.CoreCompileInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi.Domains\obj\Debug\netstandard2.0\CustomerApi.Domains.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\NewMicroservice\CustomerApi\CustomerApi.Domains\obj\Debug\netstandard2.0\CustomerApi.Domains.pdb
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi.Domains\bin\Debug\netstandard2.0\CustomerApi.Domains.deps.json
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi.Domains\bin\Debug\netstandard2.0\CustomerApi.Domains.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi.Domains\bin\Debug\netstandard2.0\CustomerApi.Domains.pdb
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi.Domains\obj\Debug\netstandard2.0\CustomerApi.Domains.csprojAssemblyReference.cache
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi.Domains\obj\Debug\netstandard2.0\CustomerApi.Domains.AssemblyInfoInputs.cache
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi.Domains\obj\Debug\netstandard2.0\CustomerApi.Domains.AssemblyInfo.cs
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi.Domains\obj\Debug\netstandard2.0\CustomerApi.Domains.csproj.CoreCompileInputs.cache
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi.Domains\obj\Debug\netstandard2.0\CustomerApi.Domains.dll
+D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi.Domains\obj\Debug\netstandard2.0\CustomerApi.Domains.pdb

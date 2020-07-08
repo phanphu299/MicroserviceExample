@@ -1,0 +1,9 @@
+D:\Work\Microservice\NewMicroservice\OrderApi\OrderApi.Events\bin\Debug\netstandard2.0\OrderApi.Events.deps.json
+D:\Work\Microservice\NewMicroservice\OrderApi\OrderApi.Events\bin\Debug\netstandard2.0\OrderApi.Events.dll
+D:\Work\Microservice\NewMicroservice\OrderApi\OrderApi.Events\obj\Debug\netstandard2.0\OrderApi.Events.csprojAssemblyReference.cache
+D:\Work\Microservice\NewMicroservice\OrderApi\OrderApi.Events\obj\Debug\netstandard2.0\OrderApi.Events.AssemblyInfoInputs.cache
+D:\Work\Microservice\NewMicroservice\OrderApi\OrderApi.Events\obj\Debug\netstandard2.0\OrderApi.Events.AssemblyInfo.cs
+D:\Work\Microservice\NewMicroservice\OrderApi\OrderApi.Events\bin\Debug\netstandard2.0\OrderApi.Common.dll
+D:\Work\Microservice\NewMicroservice\OrderApi\OrderApi.Events\bin\Debug\netstandard2.0\OrderApi.Domains.dll
+D:\Work\Microservice\NewMicroservice\OrderApi\OrderApi.Events\bin\Debug\netstandard2.0\OrderApi.Infrastructure.dll
+D:\Work\Microservice\NewMicroservice\OrderApi\OrderApi.Events\bin\Debug\netstandard2.0\OrderApi.Repositories.dll
