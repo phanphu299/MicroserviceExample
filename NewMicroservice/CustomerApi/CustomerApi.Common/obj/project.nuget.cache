@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "kxvLIs0pu3rnPXe6tXWmyhiEsVtMg/HVOgx6JcT4gWHd4lyeg5FulhYdfn9evfOI6qY+SyB51jZIS2RABxTsfg==",
+  "dgSpecHash": "G7jk9kN3JnDgFTm5hSUvHNzaEWDOfFtGSAUF5oxMrhFfzLzG2oWbWYg3jzyoiaRJV74uhWc2jmrLDqgUopcPRA==",
   "success": true,
-  "projectFilePath": "D:\\Work\\Microservice\\NewMicroservice\\CustomerApi\\CustomerApi.Common\\CustomerApi.Common.csproj",
+  "projectFilePath": "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\CustomerApi\\CustomerApi.Common\\CustomerApi.Common.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\acer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\acer\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\phuphan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\phuphan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

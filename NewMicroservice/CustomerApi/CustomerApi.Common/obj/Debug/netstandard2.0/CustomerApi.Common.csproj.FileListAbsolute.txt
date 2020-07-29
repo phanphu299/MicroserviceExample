@@ -16,3 +16,12 @@ D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi.Common\obj\Debug\ne
 D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi.Common\obj\Debug\netstandard2.0\CustomerApi.Common.csproj.CoreCompileInputs.cache
 D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi.Common\obj\Debug\netstandard2.0\CustomerApi.Common.dll
 D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi.Common\obj\Debug\netstandard2.0\CustomerApi.Common.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Common\bin\Debug\netstandard2.0\CustomerApi.Common.deps.json
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Common\bin\Debug\netstandard2.0\CustomerApi.Common.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Common\bin\Debug\netstandard2.0\CustomerApi.Common.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Common\obj\Debug\netstandard2.0\CustomerApi.Common.csprojAssemblyReference.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Common\obj\Debug\netstandard2.0\CustomerApi.Common.AssemblyInfoInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Common\obj\Debug\netstandard2.0\CustomerApi.Common.AssemblyInfo.cs
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Common\obj\Debug\netstandard2.0\CustomerApi.Common.csproj.CoreCompileInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Common\obj\Debug\netstandard2.0\CustomerApi.Common.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Common\obj\Debug\netstandard2.0\CustomerApi.Common.pdb

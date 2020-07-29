@@ -5,6 +5,8 @@ namespace CustomerApi.Events.Commands
     using CustomerApi.Common;
     using CustomerApi.Common.Contants;
     using CustomerApi.Domains.Entities;
+    using CustomerApi.Message.Send.Message;
+    using CustomerApi.Message.Send.Sender;
     using CustomerApi.Repositories;
     using FluentValidation;
     using MediatR;
@@ -45,6 +47,7 @@ namespace CustomerApi.Events.Commands
         {
             private readonly IRepository<Customer> _repository;
             private readonly IMapper _mapper;
+            private readonly ICustomerUpdateSender _customerUpdateSender;
 
             public CommandHandler(IRepository<Customer> repository, IMapper mapper)
             {
@@ -62,6 +65,9 @@ namespace CustomerApi.Events.Commands
                 var itemToUpdate = _mapper.Map<Command, Customer>(command);
                 var result = await _repository.UpdateAsync(itemToUpdate);
 
+                var updateCustomerMessage = _mapper.Map<Customer, UpdateCustomerMessage>(result);
+                _customerUpdateSender.SendUpdateCustomer(updateCustomerMessage);
+
                 return result != null ? 
                     ApiResult<Result>.Success(new Result { IsSuccess = true })
                     : ApiResult<Result>.Fail(MessageContants.UpdateFailed);
@@ -73,6 +79,7 @@ namespace CustomerApi.Events.Commands
             public Profile()
             {
                 CreateMap<Command, Customer>();
+                CreateMap<Customer, UpdateCustomerMessage>();
             }
         }
     }

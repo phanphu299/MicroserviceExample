@@ -45,7 +45,11 @@ namespace CustomerApi.Events.Queries
 
             public async Task<ApiResult<Result>> Handle(Query request, CancellationToken cancellationToken)
             {
-                var customers = await _repository.GetAll().AsNoTracking().ProjectTo<Result.Customer>(_mapper.ConfigurationProvider).ToListAsync();
+                var customers = await _repository
+                    .GetAll()
+                    .AsNoTracking()
+                    .ProjectTo<Result.Customer>(_mapper.ConfigurationProvider)
+                    .ToListAsync(cancellationToken);
                 
                 return ApiResult<Result>.Success(new Result
                 {

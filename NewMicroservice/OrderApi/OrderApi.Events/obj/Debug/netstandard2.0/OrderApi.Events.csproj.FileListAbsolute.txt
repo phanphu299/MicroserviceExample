@@ -7,3 +7,21 @@ D:\Work\Microservice\NewMicroservice\OrderApi\OrderApi.Events\bin\Debug\netstand
 D:\Work\Microservice\NewMicroservice\OrderApi\OrderApi.Events\bin\Debug\netstandard2.0\OrderApi.Domains.dll
 D:\Work\Microservice\NewMicroservice\OrderApi\OrderApi.Events\bin\Debug\netstandard2.0\OrderApi.Infrastructure.dll
 D:\Work\Microservice\NewMicroservice\OrderApi\OrderApi.Events\bin\Debug\netstandard2.0\OrderApi.Repositories.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Events\bin\Debug\netstandard2.0\OrderApi.Common.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Events\obj\Debug\netstandard2.0\OrderApi.Events.csprojAssemblyReference.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Events\obj\Debug\netstandard2.0\OrderApi.Events.AssemblyInfoInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Events\obj\Debug\netstandard2.0\OrderApi.Events.AssemblyInfo.cs
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Events\bin\Debug\netstandard2.0\OrderApi.Domains.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Events\bin\Debug\netstandard2.0\OrderApi.Events.deps.json
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Events\bin\Debug\netstandard2.0\OrderApi.Events.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Events\bin\Debug\netstandard2.0\OrderApi.Events.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Events\bin\Debug\netstandard2.0\OrderApi.Infrastructure.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Events\bin\Debug\netstandard2.0\OrderApi.Repositories.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Events\bin\Debug\netstandard2.0\OrderApi.Common.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Events\bin\Debug\netstandard2.0\OrderApi.Domains.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Events\bin\Debug\netstandard2.0\OrderApi.Repositories.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Events\bin\Debug\netstandard2.0\OrderApi.Infrastructure.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Events\obj\Debug\netstandard2.0\OrderApi.Events.csproj.CoreCompileInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Events\obj\Debug\netstandard2.0\OrderApi.Events.csproj.CopyComplete
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Events\obj\Debug\netstandard2.0\OrderApi.Events.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Events\obj\Debug\netstandard2.0\OrderApi.Events.pdb

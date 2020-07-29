@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\NewMicroservice",
+    "\\NewMicroservice\\CustomerApi",
+    "\\NewMicroservice\\OrderApi"
+  ],
+  "SelectedNode": "\\NewMicroservice\\CustomerApi",
+  "PreviewInSolutionExplorer": false
+}

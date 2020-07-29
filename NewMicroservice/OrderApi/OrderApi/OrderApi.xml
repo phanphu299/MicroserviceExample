@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OrderApi</name>
+    </assembly>
+    <members>
+        <member name="M:OrderApi.Controllers.OrderController.GetById(System.Guid)">
+            <summary>
+             Action to get an order
+            </summary>
+            <param name="id">Order Id</param>
+            <returns>Return an order by Id</returns>
+            <response code="200">Returned an order</response>
+        </member>
+        <member name="M:OrderApi.Controllers.OrderController.GetByCustomerId(System.Guid)">
+            <summary>
+             Action to get all orders of a customer
+            </summary>
+            <param name="id">Customer Id</param>
+            <returns>Return the list of orders by a customer Id</returns>
+            <response code="200">Returned list of orders</response>
+        </member>
+        <member name="M:OrderApi.Controllers.OrderController.GetPaidOrder">
+            <summary>
+             Action to get all paid orders of a customer
+            </summary>
+            <returns>Return the list of paid orders</returns>
+            <response code="200">Returned list of paid orders</response>
+        </member>
+        <member name="M:OrderApi.Controllers.OrderController.Post(OrderApi.Events.Commands.CreateOrder.Command)">
+            <summary>
+            Action to create new order in the database
+            </summary>
+            <param name="command">Model to create a new order</param>
+            <returns>Return the created order ID</returns>
+            <response code="200">Returned if the order was created</response>
+            <response code="400">Returned if the model couldn't parsed or the order couldn't be saved or the validation failed</response>
+        </member>
+        <member name="M:OrderApi.Controllers.OrderController.Pay(System.Guid)">
+            <summary>
+                Action to pay an order.
+            </summary>
+            <param name="id">The id of the order which got paid</param>
+            <returns>Returns the paid order</returns>
+            <response code="200">Returned if the order was updated (paid)</response>
+            <response code="400">Returned if the order could not be found with the provided id</response>
+        </member>
+    </members>
+</doc>

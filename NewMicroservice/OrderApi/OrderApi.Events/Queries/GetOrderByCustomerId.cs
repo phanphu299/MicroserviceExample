@@ -61,7 +61,7 @@ namespace OrderApi.Events.Queries
                     .AsNoTracking()
                     .Where(x => x.CustomerGuid == request.CustomerId)
                     .ProjectTo<Result.Order>(_mapper.ConfigurationProvider)
-                    .ToListAsync();
+                    .ToListAsync(cancellationToken);
 
                 return ApiResult<Result>.Success(new Result
                 {

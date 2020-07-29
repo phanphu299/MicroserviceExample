@@ -26,3 +26,17 @@ D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi.Repositories\obj\De
 D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi.Repositories\obj\Debug\netstandard2.0\CustomerApi.Repositories.csproj.CopyComplete
 D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi.Repositories\obj\Debug\netstandard2.0\CustomerApi.Repositories.dll
 D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi.Repositories\obj\Debug\netstandard2.0\CustomerApi.Repositories.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Repositories\bin\Debug\netstandard2.0\CustomerApi.Repositories.deps.json
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Repositories\bin\Debug\netstandard2.0\CustomerApi.Repositories.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Repositories\bin\Debug\netstandard2.0\CustomerApi.Repositories.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Repositories\bin\Debug\netstandard2.0\CustomerApi.Domains.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Repositories\bin\Debug\netstandard2.0\CustomerApi.Infrastructure.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Repositories\bin\Debug\netstandard2.0\CustomerApi.Infrastructure.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Repositories\bin\Debug\netstandard2.0\CustomerApi.Domains.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Repositories\obj\Debug\netstandard2.0\CustomerApi.Repositories.csprojAssemblyReference.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Repositories\obj\Debug\netstandard2.0\CustomerApi.Repositories.AssemblyInfoInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Repositories\obj\Debug\netstandard2.0\CustomerApi.Repositories.AssemblyInfo.cs
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Repositories\obj\Debug\netstandard2.0\CustomerApi.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Repositories\obj\Debug\netstandard2.0\CustomerApi.Repositories.csproj.CopyComplete
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Repositories\obj\Debug\netstandard2.0\CustomerApi.Repositories.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Repositories\obj\Debug\netstandard2.0\CustomerApi.Repositories.pdb

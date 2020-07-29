@@ -1,0 +1,9 @@
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Message.Send\bin\Debug\netstandard2.0\CustomerApi.Message.Send.deps.json
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Message.Send\bin\Debug\netstandard2.0\CustomerApi.Message.Send.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Message.Send\obj\Debug\netstandard2.0\CustomerApi.Message.Send.csprojAssemblyReference.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Message.Send\obj\Debug\netstandard2.0\CustomerApi.Message.Send.AssemblyInfoInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Message.Send\obj\Debug\netstandard2.0\CustomerApi.Message.Send.AssemblyInfo.cs
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Message.Send\bin\Debug\netstandard2.0\CustomerApi.Message.Send.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Message.Send\obj\Debug\netstandard2.0\CustomerApi.Message.Send.csproj.CoreCompileInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Message.Send\obj\Debug\netstandard2.0\CustomerApi.Message.Send.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Message.Send\obj\Debug\netstandard2.0\CustomerApi.Message.Send.pdb

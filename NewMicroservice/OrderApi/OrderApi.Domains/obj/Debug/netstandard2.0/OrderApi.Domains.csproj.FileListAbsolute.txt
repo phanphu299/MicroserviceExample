@@ -1,0 +1,9 @@
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Domains\bin\Debug\netstandard2.0\OrderApi.Domains.deps.json
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Domains\bin\Debug\netstandard2.0\OrderApi.Domains.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Domains\bin\Debug\netstandard2.0\OrderApi.Domains.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Domains\obj\Debug\netstandard2.0\OrderApi.Domains.csprojAssemblyReference.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Domains\obj\Debug\netstandard2.0\OrderApi.Domains.AssemblyInfoInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Domains\obj\Debug\netstandard2.0\OrderApi.Domains.AssemblyInfo.cs
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Domains\obj\Debug\netstandard2.0\OrderApi.Domains.csproj.CoreCompileInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Domains\obj\Debug\netstandard2.0\OrderApi.Domains.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Domains\obj\Debug\netstandard2.0\OrderApi.Domains.pdb

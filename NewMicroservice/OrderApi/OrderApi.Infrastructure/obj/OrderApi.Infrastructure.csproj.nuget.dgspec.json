@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\Microservice\\NewMicroservice\\OrderApi\\OrderApi.Infrastructure\\OrderApi.Infrastructure.csproj": {}
+    "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\OrderApi\\OrderApi.Infrastructure\\OrderApi.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Work\\Microservice\\NewMicroservice\\OrderApi\\OrderApi.Domains\\OrderApi.Domains.csproj": {
+    "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\OrderApi\\OrderApi.Domains\\OrderApi.Domains.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\Microservice\\NewMicroservice\\OrderApi\\OrderApi.Domains\\OrderApi.Domains.csproj",
+        "projectUniqueName": "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\OrderApi\\OrderApi.Domains\\OrderApi.Domains.csproj",
         "projectName": "OrderApi.Domains",
-        "projectPath": "D:\\Work\\Microservice\\NewMicroservice\\OrderApi\\OrderApi.Domains\\OrderApi.Domains.csproj",
-        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\Microservice\\NewMicroservice\\OrderApi\\OrderApi.Domains\\obj\\",
+        "projectPath": "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\OrderApi\\OrderApi.Domains\\OrderApi.Domains.csproj",
+        "packagesPath": "C:\\Users\\phuphan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\OrderApi\\OrderApi.Domains\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\phuphan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -62,20 +59,17 @@
         }
       }
     },
-    "D:\\Work\\Microservice\\NewMicroservice\\OrderApi\\OrderApi.Infrastructure\\OrderApi.Infrastructure.csproj": {
+    "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\OrderApi\\OrderApi.Infrastructure\\OrderApi.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\Microservice\\NewMicroservice\\OrderApi\\OrderApi.Infrastructure\\OrderApi.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\OrderApi\\OrderApi.Infrastructure\\OrderApi.Infrastructure.csproj",
         "projectName": "OrderApi.Infrastructure",
-        "projectPath": "D:\\Work\\Microservice\\NewMicroservice\\OrderApi\\OrderApi.Infrastructure\\OrderApi.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\Microservice\\NewMicroservice\\OrderApi\\OrderApi.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\OrderApi\\OrderApi.Infrastructure\\OrderApi.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\phuphan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\OrderApi\\OrderApi.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\phuphan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,8 +82,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\Work\\Microservice\\NewMicroservice\\OrderApi\\OrderApi.Domains\\OrderApi.Domains.csproj": {
-                "projectPath": "D:\\Work\\Microservice\\NewMicroservice\\OrderApi\\OrderApi.Domains\\OrderApi.Domains.csproj"
+              "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\OrderApi\\OrderApi.Domains\\OrderApi.Domains.csproj": {
+                "projectPath": "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\OrderApi\\OrderApi.Domains\\OrderApi.Domains.csproj"
               }
             }
           }
@@ -105,7 +99,15 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.5, )"
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",

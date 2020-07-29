@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\Microservice\\NewMicroservice\\CustomerApi\\CustomerApi.Infrastructure\\CustomerApi.Infrastructure.csproj": {}
+    "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\CustomerApi\\CustomerApi.Infrastructure\\CustomerApi.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Work\\Microservice\\NewMicroservice\\CustomerApi\\CustomerApi.Domains\\CustomerApi.Domains.csproj": {
+    "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\CustomerApi\\CustomerApi.Domains\\CustomerApi.Domains.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\Microservice\\NewMicroservice\\CustomerApi\\CustomerApi.Domains\\CustomerApi.Domains.csproj",
+        "projectUniqueName": "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\CustomerApi\\CustomerApi.Domains\\CustomerApi.Domains.csproj",
         "projectName": "CustomerApi.Domains",
-        "projectPath": "D:\\Work\\Microservice\\NewMicroservice\\CustomerApi\\CustomerApi.Domains\\CustomerApi.Domains.csproj",
-        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\Microservice\\NewMicroservice\\CustomerApi\\CustomerApi.Domains\\obj\\",
+        "projectPath": "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\CustomerApi\\CustomerApi.Domains\\CustomerApi.Domains.csproj",
+        "packagesPath": "C:\\Users\\phuphan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\CustomerApi\\CustomerApi.Domains\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\phuphan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -62,20 +59,17 @@
         }
       }
     },
-    "D:\\Work\\Microservice\\NewMicroservice\\CustomerApi\\CustomerApi.Infrastructure\\CustomerApi.Infrastructure.csproj": {
+    "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\CustomerApi\\CustomerApi.Infrastructure\\CustomerApi.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\Microservice\\NewMicroservice\\CustomerApi\\CustomerApi.Infrastructure\\CustomerApi.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\CustomerApi\\CustomerApi.Infrastructure\\CustomerApi.Infrastructure.csproj",
         "projectName": "CustomerApi.Infrastructure",
-        "projectPath": "D:\\Work\\Microservice\\NewMicroservice\\CustomerApi\\CustomerApi.Infrastructure\\CustomerApi.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\Microservice\\NewMicroservice\\CustomerApi\\CustomerApi.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\CustomerApi\\CustomerApi.Infrastructure\\CustomerApi.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\phuphan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\CustomerApi\\CustomerApi.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\phuphan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,8 +82,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\Work\\Microservice\\NewMicroservice\\CustomerApi\\CustomerApi.Domains\\CustomerApi.Domains.csproj": {
-                "projectPath": "D:\\Work\\Microservice\\NewMicroservice\\CustomerApi\\CustomerApi.Domains\\CustomerApi.Domains.csproj"
+              "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\CustomerApi\\CustomerApi.Domains\\CustomerApi.Domains.csproj": {
+                "projectPath": "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\CustomerApi\\CustomerApi.Domains\\CustomerApi.Domains.csproj"
               }
             }
           }

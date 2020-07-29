@@ -4,4 +4,16 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.0.0" />
+    <PackageReference Include="FluentValidation" Version="9.0.1" />
+    <PackageReference Include="MediatR" Version="8.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OrderApi.Common\OrderApi.Common.csproj" />
+    <ProjectReference Include="..\OrderApi.Domains\OrderApi.Domains.csproj" />
+    <ProjectReference Include="..\OrderApi.Repositories\OrderApi.Repositories.csproj" />
+  </ItemGroup>
+
 </Project>

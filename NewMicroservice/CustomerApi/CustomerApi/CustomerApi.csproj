@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <DocumentationFile>D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi\CustomerApi.xml</DocumentationFile>
+    <DocumentationFile>C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi\CustomerApi.xml</DocumentationFile>
     <NoWarn>1701;1702;1591</NoWarn>
   </PropertyGroup>
 
@@ -27,6 +27,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CustomerApi.Events\CustomerApi.Events.csproj" />
+    <ProjectReference Include="..\CustomerApi.Message.Send\CustomerApi.Message.Send.csproj" />
   </ItemGroup>
 
 

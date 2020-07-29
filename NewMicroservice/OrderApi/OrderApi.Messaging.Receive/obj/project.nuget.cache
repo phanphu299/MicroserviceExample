@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "lWvRQcMAuImKSPSvgobYVVx5r2v82G32FlKhP0peXu0Wk9ao1yr1gmu0sViTkDb7pPWekiboq8qL7fTUojAu/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\OrderApi\\OrderApi.Messaging.Receive\\OrderApi.Messaging.Receive.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phuphan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6\\microsoft.extensions.configuration.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\phuphan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\microsoft.extensions.dependencyinjection.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\phuphan\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.6\\microsoft.extensions.fileproviders.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\phuphan\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\3.1.6\\microsoft.extensions.hosting.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\phuphan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\microsoft.extensions.logging.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\phuphan\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\microsoft.extensions.primitives.3.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}

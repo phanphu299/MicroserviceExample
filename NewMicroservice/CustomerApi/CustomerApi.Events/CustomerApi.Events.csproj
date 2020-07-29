@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CustomerApi.Common\CustomerApi.Common.csproj" />
+    <ProjectReference Include="..\CustomerApi.Message.Send\CustomerApi.Message.Send.csproj" />
     <ProjectReference Include="..\CustomerApi.Repositories\CustomerApi.Repositories.csproj" />
   </ItemGroup>
 

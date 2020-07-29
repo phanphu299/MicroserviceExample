@@ -34,3 +34,23 @@ D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi.Events\obj\Debug\ne
 D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi.Events\obj\Debug\netstandard2.0\CustomerApi.Events.csproj.CopyComplete
 D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi.Events\obj\Debug\netstandard2.0\CustomerApi.Events.dll
 D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi.Events\obj\Debug\netstandard2.0\CustomerApi.Events.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Events\bin\Debug\netstandard2.0\CustomerApi.Events.deps.json
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Events\bin\Debug\netstandard2.0\CustomerApi.Events.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Events\bin\Debug\netstandard2.0\CustomerApi.Events.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Events\bin\Debug\netstandard2.0\CustomerApi.Common.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Events\bin\Debug\netstandard2.0\CustomerApi.Domains.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Events\bin\Debug\netstandard2.0\CustomerApi.Infrastructure.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Events\bin\Debug\netstandard2.0\CustomerApi.Repositories.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Events\bin\Debug\netstandard2.0\CustomerApi.Common.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Events\bin\Debug\netstandard2.0\CustomerApi.Repositories.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Events\bin\Debug\netstandard2.0\CustomerApi.Domains.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Events\bin\Debug\netstandard2.0\CustomerApi.Infrastructure.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Events\obj\Debug\netstandard2.0\CustomerApi.Events.csprojAssemblyReference.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Events\obj\Debug\netstandard2.0\CustomerApi.Events.AssemblyInfoInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Events\obj\Debug\netstandard2.0\CustomerApi.Events.AssemblyInfo.cs
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Events\obj\Debug\netstandard2.0\CustomerApi.Events.csproj.CoreCompileInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Events\obj\Debug\netstandard2.0\CustomerApi.Events.csproj.CopyComplete
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Events\obj\Debug\netstandard2.0\CustomerApi.Events.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Events\obj\Debug\netstandard2.0\CustomerApi.Events.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Events\bin\Debug\netstandard2.0\CustomerApi.Message.Send.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Events\bin\Debug\netstandard2.0\CustomerApi.Message.Send.pdb

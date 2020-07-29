@@ -4,5 +4,30 @@
         <name>CustomerApi</name>
     </assembly>
     <members>
+        <member name="M:CustomerApi.Controllers.CustomerController.Post(CustomerApi.Events.Commands.CreateCustomer.Command)">
+            <summary>
+            Action to create new customer in the database
+            </summary>
+            <param name="command">Model to create a new customer</param>
+            <returns>Return the created customer ID</returns>
+            <response code="200">Returned if the customer was created</response>
+            <response code="400">Returned if the model couldn't parsed or the customer couldn't be saved or the validation failed</response>
+        </member>
+        <member name="M:CustomerApi.Controllers.CustomerController.Get">
+            <summary>
+            Action to get all customers
+            </summary>
+            <returns>Return the list of customers</returns>
+            <response code="200">Returned list of customers</response>
+        </member>
+        <member name="M:CustomerApi.Controllers.CustomerController.Put(CustomerApi.Events.Commands.UpdateCustomer.Command)">
+            <summary>
+            Action to update an existing customer
+            </summary>
+            <param name="command">Model to update an existing customer</param>
+            <returns>Returns the updated customer</returns>
+            <response code="200">Returned if the customer was updated</response>
+            <response code="400">Returned if the model couldn't be parsed or the customer couldn't be found or the validation failed</response>
+        </member>
     </members>
 </doc>

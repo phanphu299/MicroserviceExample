@@ -22,3 +22,15 @@ D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi.Infrastructure\obj\
 D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi.Infrastructure\obj\Debug\netstandard2.0\CustomerApi.Infrastructure.csproj.CopyComplete
 D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi.Infrastructure\obj\Debug\netstandard2.0\CustomerApi.Infrastructure.dll
 D:\Work\Microservice\NewMicroservice\CustomerApi\CustomerApi.Infrastructure\obj\Debug\netstandard2.0\CustomerApi.Infrastructure.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Infrastructure\bin\Debug\netstandard2.0\CustomerApi.Infrastructure.deps.json
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Infrastructure\bin\Debug\netstandard2.0\CustomerApi.Infrastructure.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Infrastructure\bin\Debug\netstandard2.0\CustomerApi.Infrastructure.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Infrastructure\bin\Debug\netstandard2.0\CustomerApi.Domains.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Infrastructure\bin\Debug\netstandard2.0\CustomerApi.Domains.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Infrastructure\obj\Debug\netstandard2.0\CustomerApi.Infrastructure.csprojAssemblyReference.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Infrastructure\obj\Debug\netstandard2.0\CustomerApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Infrastructure\obj\Debug\netstandard2.0\CustomerApi.Infrastructure.AssemblyInfo.cs
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Infrastructure\obj\Debug\netstandard2.0\CustomerApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Infrastructure\obj\Debug\netstandard2.0\CustomerApi.Infrastructure.csproj.CopyComplete
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Infrastructure\obj\Debug\netstandard2.0\CustomerApi.Infrastructure.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\CustomerApi\CustomerApi.Infrastructure\obj\Debug\netstandard2.0\CustomerApi.Infrastructure.pdb

@@ -1,0 +1,14 @@
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Repositories\bin\Debug\netstandard2.0\OrderApi.Repositories.deps.json
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Repositories\bin\Debug\netstandard2.0\OrderApi.Repositories.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Repositories\bin\Debug\netstandard2.0\OrderApi.Repositories.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Repositories\bin\Debug\netstandard2.0\OrderApi.Domains.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Repositories\bin\Debug\netstandard2.0\OrderApi.Infrastructure.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Repositories\bin\Debug\netstandard2.0\OrderApi.Infrastructure.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Repositories\bin\Debug\netstandard2.0\OrderApi.Domains.pdb
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Repositories\obj\Debug\netstandard2.0\OrderApi.Repositories.csprojAssemblyReference.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Repositories\obj\Debug\netstandard2.0\OrderApi.Repositories.AssemblyInfoInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Repositories\obj\Debug\netstandard2.0\OrderApi.Repositories.AssemblyInfo.cs
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Repositories\obj\Debug\netstandard2.0\OrderApi.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Repositories\obj\Debug\netstandard2.0\OrderApi.Repositories.csproj.CopyComplete
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Repositories\obj\Debug\netstandard2.0\OrderApi.Repositories.dll
+C:\Users\phuphan\OneDrive - bbv Software Services AG\MicroserviceDemo\NewMicroservice\OrderApi\OrderApi.Repositories\obj\Debug\netstandard2.0\OrderApi.Repositories.pdb

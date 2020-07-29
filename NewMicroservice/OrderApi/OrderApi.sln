@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderApi.Infrastructure", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderApi.Repositories", "OrderApi.Repositories\OrderApi.Repositories.csproj", "{F02088F9-DA73-4775-BF63-5F7D4FFF97EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderApi.Events", "OrderApi.Events\OrderApi.Events.csproj", "{6D037FEE-E307-4747-922F-00E96BCCDCAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderApi.Events", "OrderApi.Events\OrderApi.Events.csproj", "{6D037FEE-E307-4747-922F-00E96BCCDCAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderApi.Messaging.Receive", "OrderApi.Messaging.Receive\OrderApi.Messaging.Receive.csproj", "{189D8BF7-9887-4473-BDA4-490F5ACDEA9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{6D037FEE-E307-4747-922F-00E96BCCDCAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D037FEE-E307-4747-922F-00E96BCCDCAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D037FEE-E307-4747-922F-00E96BCCDCAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{189D8BF7-9887-4473-BDA4-490F5ACDEA9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189D8BF7-9887-4473-BDA4-490F5ACDEA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189D8BF7-9887-4473-BDA4-490F5ACDEA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189D8BF7-9887-4473-BDA4-490F5ACDEA9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

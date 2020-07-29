@@ -15,7 +15,7 @@ namespace OrderApi.Infrastructure
         {
         }
 
-        public DbSet<Order> Customer { get; set; }
+        public DbSet<Order> Order { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

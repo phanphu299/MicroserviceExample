@@ -6228,23 +6228,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\acer\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\phuphan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\Microservice\\NewMicroservice\\CustomerApi\\CustomerApi.Repositories\\CustomerApi.Repositories.csproj",
+      "projectUniqueName": "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\CustomerApi\\CustomerApi.Repositories\\CustomerApi.Repositories.csproj",
       "projectName": "CustomerApi.Repositories",
-      "projectPath": "D:\\Work\\Microservice\\NewMicroservice\\CustomerApi\\CustomerApi.Repositories\\CustomerApi.Repositories.csproj",
-      "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\Microservice\\NewMicroservice\\CustomerApi\\CustomerApi.Repositories\\obj\\",
+      "projectPath": "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\CustomerApi\\CustomerApi.Repositories\\CustomerApi.Repositories.csproj",
+      "packagesPath": "C:\\Users\\phuphan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\CustomerApi\\CustomerApi.Repositories\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\phuphan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6257,8 +6253,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\Work\\Microservice\\NewMicroservice\\CustomerApi\\CustomerApi.Infrastructure\\CustomerApi.Infrastructure.csproj": {
-              "projectPath": "D:\\Work\\Microservice\\NewMicroservice\\CustomerApi\\CustomerApi.Infrastructure\\CustomerApi.Infrastructure.csproj"
+            "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\CustomerApi\\CustomerApi.Infrastructure\\CustomerApi.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\phuphan\\OneDrive - bbv Software Services AG\\MicroserviceDemo\\NewMicroservice\\CustomerApi\\CustomerApi.Infrastructure\\CustomerApi.Infrastructure.csproj"
             }
           }
         }
