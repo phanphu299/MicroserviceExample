@@ -49,10 +49,11 @@ namespace CustomerApi.Events.Commands
             private readonly IMapper _mapper;
             private readonly ICustomerUpdateSender _customerUpdateSender;
 
-            public CommandHandler(IRepository<Customer> repository, IMapper mapper)
+            public CommandHandler(IRepository<Customer> repository, IMapper mapper, ICustomerUpdateSender customerUpdateSender)
             {
                 _repository = repository;
                 _mapper = mapper;
+                _customerUpdateSender = customerUpdateSender;
             }
 
             public async Task<ApiResult<Result>> Handle(Command command, CancellationToken cancellationToken)

@@ -16,10 +16,10 @@ namespace CustomerApi.Message.Send.Sender
 
         public CustomerUpdateSender(IOptions<RabbitMqConfiguration> rabbitMqOptions)
         {
-            _hostname = rabbitMqOptions.Value.Hostname;
-            _queueName = rabbitMqOptions.Value.QueueName;
-            _username = rabbitMqOptions.Value.UserName;
-            _password = rabbitMqOptions.Value.Password;
+            _hostname = "127.0.0.1";
+            _queueName = "CustomerQueue";
+            _username = "guest";
+            _password = "guest";
         }
 
         public void SendUpdateCustomer(UpdateCustomerMessage customer)
